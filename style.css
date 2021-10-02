@@ -166,3 +166,8 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+li {
+  display: flex;
+  justify-content: space-around;
+}
